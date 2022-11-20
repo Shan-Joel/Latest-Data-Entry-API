@@ -1,2 +1,2 @@
 /node_modules
-.env
+# .env // Only doing this for learning purposes. Otherwise, there could be a major security vulnerability.
